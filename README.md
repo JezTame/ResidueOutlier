@@ -1,6 +1,6 @@
 # ResidueOutlier
 
-Residue-level MPNN for highlighting amino acids assigned low probability in their structural environments. **A low probability is not a predicted stability change.**
+Residue-level MPNN for highlighting amino acid side-chains assigned low probability in their structural environments, and suggesting alternative residue types to stabilise the structure.
 
 This code uses a simple model architecture with 16 node features related to the conformation and side-chain environment of each residue in a model. The supplied model was trained with 7343 distinct PDB polypeptide chains (only one from any single PDB entry), ignoring residues within 5 places of either chain terminus, using 16 structural features per residue.  The resulting weights file `residue_outlier_16f.pt` is included in this repository. The normalisation and training loop are preserved, so that the model can be retrained on other data if the user wishes.
 
