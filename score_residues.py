@@ -163,7 +163,7 @@ def main():
     results.sort(reverse=True)
 
     print("\nTop suspicious residues:\n")
-    print("PDB                Chain Resid  Obs  Pred  ProbObs   Score   Top3")
+    print("PDB                Chain Resid   Obs    Pred   ProbObs   Score  Top3")
 
     for score, pdb_name, chain_id, resid, obs_aa, pred_aa, p_obs, top3_str in results[:args.top_n]:
         print(
