@@ -1,0 +1,34 @@
+
+Top suspicious residues:
+
+PDB                Chain Resid   Obs    Pred   ProbObs   Score  Top3
+4S0W.pdb               B   151   THR    GLU    0.0002    8.488  GLU:0.54 ASP:0.39 GLN:0.02
+4S0W.pdb               B    14   ARG    ILE    0.0010    6.889  ILE:0.34 LEU:0.33 VAL:0.25
+4S0W.pdb               A   117   SER    LEU    0.0014    6.564  LEU:0.35 ALA:0.30 VAL:0.15
+4S0W.pdb               B   117   SER    ALA    0.0022    6.114  ALA:0.69 LEU:0.14 MET:0.07
+4S0W.pdb               B   140   ASN    ARG    0.0044    5.435  ARG:0.78 LYS:0.14 GLU:0.03
+4S0W.pdb               B    76   ARG    GLU    0.0063    5.072  GLU:0.35 SER:0.24 ASP:0.13
+4S0W.pdb               B   144   ASN    ALA    0.0066    5.015  ALA:0.50 GLU:0.15 LEU:0.06
+4S0W.pdb               A    40   ASN    ALA    0.0070    4.958  ALA:0.68 GLU:0.09 LYS:0.05
+4S0W.pdb               B    97   CYS    ALA    0.0085    4.764  ALA:0.63 LEU:0.13 MET:0.10
+4S0W.pdb               A    97   CYS    ALA    0.0090    4.706  ALA:0.80 MET:0.06 LEU:0.05
+4S0W.pdb               A   140   ASN    ALA    0.0122    4.402  ALA:0.22 GLU:0.18 LYS:0.13
+4S0W.pdb               B    21   THR    ALA    0.0179    4.025  ALA:0.26 GLU:0.14 LYS:0.13
+4S0W.pdb               A   142   THR    ASN    0.0186    3.983  ASN:0.54 ASP:0.20 SER:0.11
+4S0W.pdb               B   126   TRP    THR    0.0204    3.894  THR:0.37 SER:0.19 GLN:0.14
+4S0W.pdb               B   102   MET    VAL    0.0241    3.726  VAL:0.45 ILE:0.28 LEU:0.20
+4S0W.pdb               B    39   LEU    LYS    0.0274    3.598  LYS:0.38 ALA:0.22 GLU:0.10
+4S0W.pdb               B   142   THR    ASN    0.0280    3.575  ASN:0.44 ASP:0.27 TYR:0.07
+4S0W.pdb               A    65   LYS    THR    0.0282    3.570  THR:0.41 SER:0.27 GLU:0.08
+4S0W.pdb               A   123   GLN    ASP    0.0307    3.484  ASP:0.59 GLU:0.15 ASN:0.15
+4S0W.pdb               A   106   MET    VAL    0.0315    3.458  VAL:0.46 ILE:0.32 LEU:0.14
+4S0W.pdb               B    80   ARG    ASN    0.0330    3.412  ASN:0.28 THR:0.19 SER:0.19
+4S0W.pdb               B     8   ARG    ALA    0.0352    3.346  ALA:0.40 GLY:0.16 LEU:0.07
+4S0W.pdb               B   123   GLN    ASP    0.0398    3.224  ASP:0.46 GLU:0.32 ASN:0.08
+4S0W.pdb               A   126   TRP    SER    0.0402    3.214  SER:0.30 THR:0.24 GLN:0.12
+4S0W.pdb               A   109   THR    GLU    0.0435    3.135  GLU:0.38 ASP:0.15 GLN:0.14
+4S0W.pdb               B   106   MET    ILE    0.0439    3.126  ILE:0.35 LEU:0.32 VAL:0.23
+4S0W.pdb               B   120   MET    ALA    0.0450    3.101  ALA:0.77 LEU:0.10 MET:0.04
+4S0W.pdb               B    48   LYS    ASP    0.0481    3.034  ASP:0.40 GLU:0.33 ASN:0.10
+4S0W.pdb               A   101   ASN    GLU    0.0488    3.020  GLU:0.40 ASP:0.30 GLN:0.10
+4S0W.pdb               B    13   LEU    ALA    0.0503    2.990  ALA:0.44 GLY:0.12 SER:0.08
